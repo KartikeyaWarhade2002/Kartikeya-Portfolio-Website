@@ -1,0 +1,9 @@
+Could not find history for socialicons.css
+Restoring socialicons.tsx from C:\Users\Kartikeya\AppData\Roaming\Cursor\User\History\-c1e5de3\h8NL.tsx time: 1773414702979
+Could not find history for whatido.css
+Could not find history for whatido.tsx
+Could not find history for about.css
+Restoring about.tsx from C:\Users\Kartikeya\AppData\Roaming\Cursor\User\History\-73ea43\FAJr.tsx time: 1773414702980
+Could not find history for landing.css
+Restoring landing.tsx from C:\Users\Kartikeya\AppData\Roaming\Cursor\User\History\6aaa7a07\uFlR.tsx time: 1773414701337
+Restoring navbar.tsx from C:\Users\Kartikeya\AppData\Roaming\Cursor\User\History\-6d4ede2a\yAUq.tsx time: 1773414701337

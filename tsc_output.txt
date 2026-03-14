@@ -1,0 +1,4 @@
+src/components/utils/initialFX.ts(1,27): error TS7016: Could not find a declaration file for module 'gsap-trial/SplitText'. 'E:/Portfolio-Website/Kartikeya-Portfolio-Website/node_modules/gsap-trial/SplitText.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/gsap-trial` if it exists or add a new declaration (.d.ts) file containing `declare module 'gsap-trial/SplitText';`
+src/components/utils/splitText.ts(4,27): error TS7016: Could not find a declaration file for module 'gsap-trial/SplitText'. 'E:/Portfolio-Website/Kartikeya-Portfolio-Website/node_modules/gsap-trial/SplitText.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/gsap-trial` if it exists or add a new declaration (.d.ts) file containing `declare module 'gsap-trial/SplitText';`
