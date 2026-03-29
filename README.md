@@ -51,8 +51,6 @@ A portfolio built to showcase my work as a Data Analyst and IT Engineer. Feature
 
 ## ✦ Running Locally
 
-> **Note on GSAP Club Plugins:** The live site uses paid GSAP Club plugins. This repo replaces them with free trial plugins — the trial version **cannot be used for hosting**. To deploy your own version, get Club plugins at [gsap.com](https://gsap.com/docs/v3/Installation/).
-
 ```bash
 git clone https://github.com/KartikeyaWarhade2002/portfolio.git
 cd portfolio
